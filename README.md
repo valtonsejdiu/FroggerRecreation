@@ -5,6 +5,6 @@ The realization of a modern version of the game "Frogger - 1981" in Java was rea
 The game includes the timer, lives and score that the player achieves during the game.
 The lifespan is 60 seconds and there are 3 lives in total.
 The score is calculated so that when the frog reaches the target, 100 points plus the remaining seconds multiplied by 10 are added to the previous score.
-Game controls to move the frog are array keys and W, A, S, D.
+Game controls to move the frog are arrow keys and W, A, S, D.
 
 //Contributors: @valtonsejdiu, @lirakrushiti, @valdrinn.
